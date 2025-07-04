@@ -1,0 +1,9 @@
+# File rahasia dan konfigurasi lingkungan
+.env
+
+# Folder dependensi yang sangat besar
+node_modules/
+
+# Log dan file sistem operasi
+npm-debug.log
+.DS_Store
